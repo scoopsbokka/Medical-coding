@@ -1,0 +1,6 @@
+aiohttp
+numpy
+pandas
+rich
+tenacity
+orjson
