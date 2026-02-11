@@ -1,328 +1,433 @@
-**1.** There was a cervical cancer one asking after 25 years age what is routine plan
-annual pap, vaccine booster, hpv cotest schedule
-**2.** Pt in septic shock looked cold n sweaty but lactate hadn't climbed yet they asked earliest
-sign of poor perfusion
-mixed venous O,, UOP, lactate gap, pulse ox
-**3.** Stem had brief awareness spells not full seizures MRI tiny cortical abnormal spot they
-asked drug
-carbamazepine, clonazepam, levetiracetam, ethosuximide
-**4.** One case had chest pressure only when turning head BP different in both arms contrast
-allergy so no CTA they asked test
-**5.** A transplant pt creatinine creeping up fever barely there DSA mildly high they wanted
-first mgmt
-switch tacro, fluids, pulse steroids, biopsy later
-**6.** Some woman w hyponatremia urine super concentrated even after fluids they asked
-cause
+# USMLE CK Memory-Hook Notes (Converted)
 
-adrenal crisis, thiazide, SIADH, psychogenic water
-**7.** A cavitary lung lesion but TB NAAT negative they asked next step
-CT drainage, repeat NAAT, TB culture long incubation, azinro
-**8.** Pelvic trauma stable vitals but SI joint wide and pelvis rotated they wanted immediate
-action
-CT first, exlap, pelvic binder, OR later
-**9.** Amiodarone user came brady confused TSH high T4 low they asked mechanism
-receptor block, central failure, amio-thyroiditis, TSH resistance
-**10.** Teen w violent episodes sweating dilated pupils saying walls moving after vaping
-unknown stuff they asked tox
-LSD, heroin. SSRI WD, synthetic cannabinoids RA
-**11.** Riateinuna huge blopsy only podocyte foot process fusion no deponts they tokest
-treatment
-ACE: only, sacro. high dose steroids, cyclophosphamide
-**12.** There was something written about FMEA and they deschbed identifying possible fallure
-points before they happen and asked the tool.......... ?
-ros, posa, fmea
-**13.** There was this older lady living alone upstairs kept falling and the nurse did that get up
-go thing and it was slower than normal and they asked what you should arrange
-first .?
-walker order, home safety assessment, respite care
-**14.** An abstract with dots on graph and wanted distribution meaning..........?
-histogram, scatter plot, funnel plot
-**15.** There was one where patient due to frailty and balance issues needed something before
-being moved and they asked what assessment ..?
-facility transfer, pt referral, home safety check
-**16.** A psych patient labelled as schizophrenic for odd behaviour was admitted but finally had
-thyroid disease and the question asked what bias caused the missed diagnosis
-sampling bias, recall bias, anchoring bias
-**17.** Another bias question described a doctor who already decided diagnosis mentally and
-did tests poly to confirm and they wanted the beas......
-berkson bias, conformity bias, delection bias
-**18.** Premature closure was deschbed as ending diagnostic reasoning too fast and they
-wanted the category it belongs 1o.,....?
-* *Information bias, cognitive bias. misclassification
-**19.** A quatity improvsment stem said equipment checked every 6 to 7 months and they
-asked what type of control is this... ?
-emergent check, randomized check, scheduled quality control
-**20.** One improvement question asked which tool prionitizes major protem sources using
-bars from biggest to smallest....
-flow diagram, fishbone diagram, pareto chart
-**21.** Another q asked what diagram maps causes and effects like branches
-scatter plot, fishbone diagram, forest piot
-**22.** A newborn with almost no tone very low apgar had to be ventilated and they linked it to
-maternal autoimmune issue and asked the cause.. ..?
-sepsis, hypoxia, congenital myasthenia gravis
-**23.** There was a public health one they said husband brought wife from some shelter home
-she needs procedure but she lacks capacity and legal guardian is adult son not husband
-and asked who signs..........?
-doctor signs, husband signs, adult son signs
-**24.** Thore wns a kid with fever rash red tongue swolien hands and later they saiu cebo
-snowed some cuttintry dilation and they wanted diagnosis….. ..?
-scadiet fever, kawasaki, measles
-**25.** There was thes greenish discharge case kinda smelly and they asked what & see on lun
-prep. .....
-clue cells, motile trichomonads, budding yeast
-**26.** There was this newborn with fast heart rate bulging eyes super intable and they tanted
-at maternal thyroid issues and asked what to give first....
-iodine, propranolol. methimazole
-**27.** There was a woman around mid 20s rputine visit all vaccinan done and tam pay pora
-and they asked what screen is next due ...?
-upid panel, breast exam, pap with HPV cotest
-**28.** There was a guy with bright red rectal bleeding and when you try dre he had mumme
-pain and question said next step anoscopy so what is thely
-diverticulosis, ibd, anal fissure
-**29.** There was a man who said he wants la quil snoking but in sill thinking about it not fully
-ready and they asked which stage this is
-precontemptation: action, contemplation
-**30.** There was that hiv pregnandy one where they said cd4 kinda low and thay asked what
-med to give during delivery to stop transmission .....?
-efavirenz, intrapartum AZT. nevirapine
-**31.** There was a pneumonia case fever rust sputum kinda classic and they asked
-cause Zie
-klebsiella, moraxella, strep pneumoniae
-**32.** There was a flu like case sudden fever body aches they said early treatment works
-better and asked what med cettriazone, doxycycline, osettamivir
-**33.** There was this ques showing bars of issues biggest problem ai the left side and they
-asked the name of that chart. 
-run chart, fistibone, pareto
-earn parate
-**34.** There was this darned case where the person took oic stuff that slows gut motilly
-through that receptor and they asked the drug
-diphenoxylate, domperidone, loperamide
-**35.** Thare was colorectal cancer screen question saying average risk age something like
-that and asked test of choice
-fit test, colonoscopy, ct colonography
-**36.** There was this electrocautery question they described something ake removing a small
-lesion using heated tip and wanted the name
-cryotherapy, silver nitrate, electrocautery
-**37.** There was a child or young adult with bleeding episodes and they said platelets were
-kinde fine and they hinted somethig like paintess bibeding and asked most likely...
-cause.. ..?
-hemophia b. von willebrand, itp
-**38.** Thero was a vaccine one where they mentioned older adult and said which
-pneumococcal one to give..
-pcv13, ppsv23. ppsv20
-**39.** There was a question hinting at anoscopy again but this time they deschbed paintul
-defecation sharp like glass and they wanted next step. ... ?
-fit test, colonoscopy, anoscopy
-**40.** There was & qup living in two story house who failed that gel up go and try asked wit Ifestyle advice....?
-gym running, avoid stairs shit bedroom upstairs
-**41.** There was one aboul strept pneumonia causing typical lobar pneumonia but they asked
-why it does that something about capsule virulence
-mycoplasma, viet strep pneumoniae
-**42.** I remember a kid with ready suit neck could not axtend it and the back of the throat
-looked swollen and airway sounded risky and they wanted the management.
-iv steroids, airway and surgical drainage, oral amox the
-**43.** One case had ints deep throat infection smelly and culture showed pyogenes and they
-wanted what to do urgently
-observe only. oral azithro, immediate surgical debridement
-**44.** In one labour question  late term pregnant woman came in with painful tightenings but
-corvix was suit closed they hinted faise contractions and asked what you do next.
-discharge home, tocolysis, admit and give oxytocin
-**45.** I saw a postpartum case with heavy nonstop bleeding and uterus fell soff and they
-asked what the cause is... .....?
-retaned placenta, cervical tear, uterine atony
-**46.** One postpartum patient kept bleeding even after massage and meds and they wanted
-what step comes next.?
-furosemide, wait and monitor, balloon tamponade
-**47.** There was a contraception question about a woman with factor five leiden and they
-wanted the safest option she can use...
-combined pill, depo shot, etonogestrel implant
-**48.** Another contraceptive Q asked which method is contraindicated in
-thrombophilia......
-lud, progestin only, combined estrogen pill
-**49.** One cystitis stem had dysuna mid suprapubic pain and they asked which antibrate you
-pick.
-linezolig, nitrofurantoin, cephalosporin
-**50.** A renal physiology type question mentioned tubular injury and they asked what arin
-sodium level you expect ...?
-borderline sodium, very low sodium, high sodium
-**51.** There was an asthma case with daily symptoms waking up at night and they wanled
-which treatment combo to start....
-salbutamol only, montelukast alone, fluticasone with salmeterol
-**52.** Another one asked which inhaler is the long acting one.........?
-albuteral, ipratropium, salmeterol
-**53.** I remember a stable wide mythm case the guy was fine talking clearly and they asked
-what drug you give
-adenosine, amiodarone, procainamide
-**54.** One cystitis question hinted nitro was not suitable and wanted the next best..
-treatment
-macrolide, cephalosporin. fostomycin
-**55.** A postpartum case mentioned bleeding after atony was ruled out and they warded stil
-alternative diagnosis you consider
-fibroid degeneration, ectopic, endometritis
-**56.** Someone postpartum bleeding through sheets with uterus totally soli and the quartion
-was about the mechanism….. ?
-cervical tear, uterine atony, retained placenta
-**57.** A malnourished child with swollen legs palchy sion and hair issues and they asked for
-pathological mechanism.......?
-vitamin c lack, severe protein deficiency. fat emboli
-**58.** A pregnant patient failed both sugar tests and they wanted the proper label 7
-normal physiology, thyroid disorder, gestational diabetes
-**59.** A psych stem had disorganized behaviour odd beliefs poor functioning and they wanted she disordere a ?
-schizophrenia, bipolar, depression
-**60.** A genital wad case wanted the correct sequence before freezing i
-biopsy then cryotherapy, cryo only, azole cream
-**61.** A corvical lesion with friable lissue abnormal cells needed the corted procedute removing the whole zone......._?
-cone biopsy cl abdomen, mri pelvis
-**62.** A transplant kidney case losing function had viral molus on bodies and they asked which ?
-hsv. bk virus, cmv
-**63.** A cholinergic toxicity stern had sweating tears vomiting pinpoint pupils and they unked
-for antidote A..?
-atropine, charcoal, naloxone
-**64.** A chest trauma had sudden hypoxia hyperresonance tracheat shift and they wanted the immediate action ...
-needie thoracostomy, cr first, diuretics
+### 📊 Cervical Cancer Screening (Age 25+)
 
-**65.** A reseurch itam had subyects receiving drug A then B in swapped order and they asked the design.........?
-crossover rct, case control, cahort
-**66.** A study enrolled participants without approval and they asked which ethical pnaple wan
-broken..
-beneficence, justice, autonomy violation
-**67.** Someone losing weight sweating heat intolerance needing dress size change and they we meerance needing dress size change and ily wanted which lab set.
-prolactin cortisol, 13 14 tsh
+**🔵 Picture this:** During clinic at 2 PM, your nurse hands you a chart like a calendar with one date circled in red; you tap the EMR reminder with your pen, feel briefly unsure, then relieved as you schedule routine cervical screening with Pap testing and HPV strategy by age-based guidelines.
 
+**🔍 Think Through It:** Why does your brain want to order annual Pap for everyone? What's the critical discriminator between outdated annual screening and current age-based intervals? What would change if the patient were immunocompromised instead of average risk?
 
-**68.** A personality stem unstable moods impulsive behavior fear of abandonment wanted cluster ...?
-schizoid, histrionic, **borderline**
+**🎯 The Answer:**  
+**Immediate:** Use age-based routine cervical screening intervals (prevents overscreening harm).  
+**Then:** At age 30–65, use HPV/Pap cotesting at recommended interval when appropriate (improves detection with fewer unnecessary procedures).  
+**Avoid:** Annual Pap in average-risk patients (adds false positives/procedural harm without benefit).
 
-**69.** A recurrent sinus lung infection case with low iga low igg wanted the diagnosis ...?
-sarcoid, **cvid**, hiv
+**❌ Common Traps:**  
+• Annual Pap smear ← Feels “safer,” but causes overscreening and unnecessary colposcopies  
+• Vaccine booster as screening substitute ← HPV vaccine is prevention, not a replacement for screening
 
-**70.** A diabetic with kussmaul breathing confusion high sugars needed the FIRST drug step ...?
-fluids only, **insulin with k monitoring**, delay insulin
+**💡 Recall Pearl:**  
+“Screen by age-based intervals, not anxiety-based frequency.”
 
-**71.** An airway case poorly controlled wheeze needed long acting step up ...?
-ipratropium, montelukast, **salmeterol**
+**✏️ CK-Style Vignette:**  
+A 27-year-old woman with no abnormal prior results presents for routine preventive care and asks if she needs yearly Pap testing. She is otherwise healthy and up to date on vaccinations. What is the most appropriate next step?  
+**Most likely choice:** Continue guideline-based cervical screening interval rather than annual testing.
 
-**72.** A chest pain relieved leaning forward diffuse st elevation they wanted diagnosis ...?
-angina, gerd, **pericarditis**
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If I see average-risk routine gyne visit, I think age-based interval screening, which means I avoid annual overtesting.”
 
-**73.** A labour stem had regular contractions but cervix unchanged and they wanted the pattern ...?
-latent labour, **protracted labour**, normal labour
+**🎯 Exam Signal Words:**  
+- “routine preventive visit”  
+- “average-risk patient”  
+- “no prior abnormal Pap”  
+- “asks for annual Pap”  
+- “up to date on vaccines”
 
-**74.** A tremor more at rest disappearing with movement pointed to which condition ...?
-physiologic tremor, essential tremor, **parkinsons**
+---
+**Category:** Preventive Medicine  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
 
-**75.** A thunder headache normal ct stiff neck hours later wanted next investigation ...?
-mra, **lp**, xray
+### 📊 SIADH vs Other Hyponatremia Causes
 
-**76.** A pancreatitis case classic pain radiating back asked the best imaging ...?
-mri brain, **ct abdomen**, chest xray
+**🔵 Picture this:** At midnight on the ward, a resident points to urine labs thick as syrup on the printout; you hold the sodium panel in one hand and the fluid order in the other, go from puzzled to clear-headed, and call it SIADH when urine stays concentrated despite isotonic fluids.
 
-**77.** A child with trisomy features had harsh murmur along left sternal border and they wanted defect ...?
-asd, tof, **vsd**
+**🔍 Think Through It:** Why does your brain want to label all hyponatremia as dehydration? What's the critical discriminator between SIADH and psychogenic polydipsia? What would change if urine osmolality were very low instead of high?
 
+**🎯 The Answer:**  
+**Immediate:** Diagnose SIADH when hyponatremia coexists with inappropriately concentrated urine (ADH effect persists).  
+**Then:** Treat with fluid restriction and targeted cause workup.  
+**Avoid:** Repeated blind isotonic fluids in euvolemic SIADH (can worsen sodium).
 
-**78.** A pericarditis ekg diffuse st elevation pr depression needed management
-iv heparin, steroids, **oral ibuprofen**
+**❌ Common Traps:**  
+• Psychogenic polydipsia ← Usually has very dilute urine, unlike SIADH  
+• Adrenal crisis without supportive pattern ← Must fit cortisol/hemodynamic context
 
-**79.** A stress incontinence case leakage with cough but normal exam needed first step .....?
-ct pelvis, **kegel exercises**, antibiotics
+**💡 Recall Pearl:**  
+“Low sodium + high urine concentration = think SIADH first.”
 
-**80.** A cystitis after intercourse mild fever asked best agent .....?
-doxy, ampicillin, **nitrofurantoin**
+**✏️ CK-Style Vignette:**  
+A 61-year-old woman has persistent hyponatremia despite isotonic fluid administration. She appears euvolemic, and urine studies remain inappropriately concentrated. What is the most likely cause?  
+**Most likely choice:** SIADH ← ADH-driven free-water retention despite low serum sodium.
 
-**81.** A breast mass with spiculated edges microcalcifications needed diagnostic step
-us only, mri brain, **core biopsy**
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If sodium is low but urine is still concentrated, I think SIADH, and I restrict free water first.”
 
-**82.** A lung mass hypercalcemia constipation wanted mechanism
-bone mets, **pthrp secretion**, low pth
+**🎯 Exam Signal Words:**  
+- “hyponatremia”  
+- “euvolemic”  
+- “urine osmolality high”  
+- “not improving with isotonic fluids”  
+- “inappropriately concentrated urine”
 
-**83.** A vasculitis case with epistaxis hematuria cavitating lung nodules positive anca needed the diagnosis .....?
-sle, **granulomatosis with polyangiitis**, iga nephropathy
+---
+**Category:** Diagnostics  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
 
+### 📊 Pelvic Trauma Initial Stabilization
 
+**🔵 Picture this:** In the trauma bay at 3 AM, EMS rolls in a patient while the senior resident slaps your shoulder and points to a pelvis “opened like a book”; you pull the binder straps with both hands, panic settles into focus, and you secure a pelvic binder before advanced imaging.
 
-**84.** A patient hyperpigmented low bp craving salt acth high needed diagnosis
-pheo, cushings, **addison**
+**🔍 Think Through It:** Why does your brain want to rush to CT first? What's the critical discriminator between immediate stabilization and diagnostic sequencing in pelvic ring injury? What would change if the patient became hemodynamically unstable?
 
-**85.** A pregnant patient vomiting bile ruq pain normal lfts wanted cause .....?
-portal thromboses, **biliary colic**, viral hepatitis
+**🎯 The Answer:**  
+**Immediate:** Apply pelvic binder for suspected unstable pelvic ring injury (reduces pelvic volume/bleeding).  
+**Then:** Proceed with imaging and definitive management once stabilized.  
+**Avoid:** Delaying binder placement for CT in obvious mechanical instability.
 
-**86.** A dvt management stem asked which drug is used for bridging .....?
-heparin only, aspirin, **lmwh**
+**❌ Common Traps:**  
+• CT first ← Important, but not before immediate mechanical stabilization  
+• Immediate laparotomy without indication ← Misses targeted hemorrhage-control sequence
 
-**87.** A pharm question wanted the drug that increases hr and opens bronchi through sympathetic action .......?
-ace inhibitors, antipsychotics, **adrenergic agonist**
+**💡 Recall Pearl:**  
+“Twisted/widened pelvis? Binder before scanner.”
 
-**88.** Someone showed a vaginal lesion photo darker irregular edges and they hinted it was not infection and wanted what condition fits.........?
-lichen sclerosis, **vulvar melanoma**, bartholin cyst
+**✏️ CK-Style Vignette:**  
+A trauma patient has pelvic pain after a motor vehicle collision. Vitals are currently stable, but exam and radiography suggest SI joint widening with rotational pelvic instability. What is the most appropriate immediate next step?  
+**Most likely choice:** Pelvic binder placement ← Early stabilization limits hemorrhage risk.
 
-**89.** A soft lump under the skin was described and patient kept asking reassurance but the question said reassurance is NOT an option and wanted the step ......?
-observe, surgical excision. warm compress 
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If pelvis is mechanically unstable, I think binder now, imaging next.”
 
+**🎯 Exam Signal Words:**  
+- “pelvic ring instability”  
+- “SI joint widening”  
+- “pelvis rotated/open-book pattern”  
+- “trauma bay”  
+- “immediate action”
 
-**90.** A patient had a weird uneasy feeling in the chest and they wanted the best first test......?
-ct contrast, xray, **ecg**
+---
+**Category:** Emergency Management  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
 
-**91.** A bone tumour question mentioned night pain on leg ultrasound unclear and they pushed you toward definitive diagnostic step......?
-ct pelvis, **biopsy**, bone scan
+### 📊 Diffuse ST Elevation + PR Depression (Pericarditis)
 
-**92.** Someone had chronic bone pain and xray showed mushroom like bump and they wanted the diagnosis......?
-ewing sarcoma, osteosarcoma, **osteochondroma**
+**🔵 Picture this:** During evening rounds, your intern rushes in with an ECG tracing that looks like a lifted blanket across many leads; you trace the PR dip with your finger, shift from chest-pain alarm to diagnostic clarity, and start oral NSAID therapy for acute pericarditis.
 
-**93.** A middle aged man with trouble opening jars delayed hand grip progressive weakness wanted the condition .......?
-myasthenia gravis, guillain barre, **muscular dystrophy**
+**🔍 Think Through It:** Why does your brain want to treat this like STEMI immediately? What's the critical discriminator between STEMI and acute pericarditis on ECG pattern? What would change if the ST elevation were regional with reciprocal depression?
 
-**94.** During a planned operative case anesthesiologist worried about arrhythmia due to receptor sensitivity and they wanted the name ......?
-neuroleptic syndrome, serotonin syndrome, **malignant hyperthermia**
+**🎯 The Answer:**  
+**Immediate:** Diagnose acute pericarditis with diffuse ST elevation + PR depression.  
+**Then:** Start NSAID therapy (eg, ibuprofen) for anti-inflammatory pain control.  
+**Avoid:** Reflex anticoagulation/heparin for non-ACS pattern (bleeding risk, wrong pathway).
 
+**❌ Common Traps:**  
+• IV heparin ← Used for ACS pathways, not classic pericarditis ECG pattern  
+• Ignoring PR depression ← Misses key pericarditis clue
 
-**95.** A patient with hyperpigmented skin non itchy nausea neuropathy history wanted toxin.......?
-lead poisoning, cadmium, **arsenic**
+**💡 Recall Pearl:**  
+“Diffuse up, PR down = pericarditis, treat inflammation.”
 
-**96.** One scenario had an unconscious patient brought by ex-spouse and question focused on who signs consent.........?
-healthcare assistant, **adult son**, neighbor
+**✏️ CK-Style Vignette:**  
+A 24-year-old man has pleuritic chest pain improved by leaning forward. ECG shows diffuse ST-segment elevation and PR depression. What is the most appropriate management?  
+**Most likely choice:** Oral ibuprofen for acute pericarditis.
 
-**97.** A biostat question wanted ppv change when cutoff increases ............?
-ppv stays same, decreases, **increases**
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If pain improves leaning forward plus diffuse ST elevation/PR depression, I think pericarditis and give NSAIDs.”
 
-**98.** A stats abstract asked which factor determines sample size ..........?
-prevalence, incidence, **power**
+**🎯 Exam Signal Words:**  
+- “pleuritic chest pain”  
+- “better leaning forward”  
+- “diffuse ST elevation”  
+- “PR depression”  
+- “young patient”
 
+---
+**Category:** Therapeutics  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
 
-**99.** A protest probably coom asked what influencas pretest probability
-specificity, pov. disease prevalence 
+### 📊 Thunderclap Headache with Normal CT
 
-**100.** An odds ratio question asked for formula
-sn over sp, ad be, rr equals bc
+**🔵 Picture this:** At 1 AM in the ED, the radiology tech says “CT is clean” while the patient grips the rail, neck stiff as a board; you set down the scan, grab the LP kit tray, switch from relief to urgency, and proceed to lumbar puncture for subarachnoid hemorrhage evaluation.
 
-**101.** A number needed to treat discussion wanted calculation concept sensitivity, absolute risk reduction pretest prob
-**102.** A relative risk question wanted exposed vs unexposed risk comparison odds ratio, ppv, relative risk
-**103.** A vignette said unconscious but stable and brought by ex wife and asked corruct surrogate....... ?
-sister in law, adult child, friend
+**🔍 Think Through It:** Why does your brain want to stop after a normal head CT? What's the critical discriminator between ruled-out hemorrhage and CT-negative early SAH suspicion? What would change if CT had already shown subarachnoid blood?
 
-**104.** A question about cutoff line being >17 positive <17 nogative asked what charactenstic is manipulated.
-sensitivity, threshold, prevalence
+**🎯 The Answer:**  
+**Immediate:** Perform lumbar puncture after negative CT when suspicion for SAH remains high (detects xanthochromia/RBCs).  
+**Then:** Manage as SAH if CSF confirms bleeding.  
+**Avoid:** Reassurance/discharge solely on early negative CT with red-flag features.
 
+**❌ Common Traps:**  
+• MRA first ← Not the classic immediate next test in CT-negative high-suspicion algorithm  
+• Observation only ← Risks missing life-threatening SAH
 
-**105.** A randomization question asked what ensures equal distribution of characteristics ......?
-type 1 error, **power**, r value
+**💡 Recall Pearl:**  
+“Thunderclap + stiff neck + normal CT = LP next.”
 
-**106.** A safety question about older adult staying alone after fall risk asked placement ......?
-icu, **assisted facility**, rehab hospital
+**✏️ CK-Style Vignette:**  
+A 46-year-old woman presents with sudden severe headache, neck stiffness, and vomiting. Noncontrast head CT is normal. What is the most appropriate next step?  
+**Most likely choice:** Lumbar puncture ← required when SAH suspicion remains despite normal CT.
 
-**107.** A mentee collapsed then revived but refused hospital and they asked what principle guides decision ......?
-autonomy, **capacity assessment**, justice
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If thunderclap headache persists after normal CT, I think LP before closure.”
 
-**108.** A musculoskeletal question referenced calcium receptor sensitivity and anesthesia risk ......?
-serotonin syndrome, **malignant hyperthermia**, hypocalcemia
+**🎯 Exam Signal Words:**  
+- “worst headache of life”  
+- “sudden onset”  
+- “nuchal rigidity”  
+- “normal noncontrast CT”  
+- “next investigation”
 
-**109.** A patient refused imaging but had uneasy chest feeling and they asked first test ......?
-usg abdomen, **ecg**, d dimer
+---
+**Category:** Diagnostic Algorithm  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
 
-**110.** A question asked which lab supports arsenic toxicity ......?
-k level, ldh elevated, **urine arsenic**
+### 📊 Stable Wide-Complex Tachycardia
 
-**111.** A gerd mimic chest discomfort case asked which test is useless ......?
-ct chest, echo, **cxr**
+**🔵 Picture this:** In a monitored unit at shift change, your nurse points to a fast wide rhythm marching like train cars across the strip; you keep one hand on the crash cart but calm down as he speaks in full sentences, then order procainamide for stable monomorphic VT.
 
+**🔍 Think Through It:** Why does your brain want to push adenosine immediately? What's the critical discriminator between stable wide-complex VT and unstable rhythm needing shock? What would change if hypotension or altered mental status appeared?
 
+**🎯 The Answer:**  
+**Immediate:** Treat stable monomorphic wide-complex tachycardia with antiarrhythmic (eg, procainamide).  
+**Then:** Continuous monitoring and definitive rhythm evaluation.  
+**Avoid:** Delayed treatment or wrong narrow-complex reflex when ECG suggests VT.
+
+**❌ Common Traps:**  
+• Adenosine reflex ← Works for many SVTs, not default for clear stable VT pattern  
+• Immediate amiodarone in all cases ← May be used, but procainamide is often preferred in stable monomorphic VT algorithms
+
+**💡 Recall Pearl:**  
+“Wide + regular + stable talking patient = procainamide lane.”
+
+**✏️ CK-Style Vignette:**  
+A 58-year-old man has palpitations and a regular wide-complex tachycardia on ECG. Blood pressure is stable and he is alert without chest pain. What is the most appropriate next step?  
+**Most likely choice:** Procainamide for stable monomorphic VT.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If VT is wide and patient is stable, I think antiarrhythmic first, shock only if unstable.”
+
+**🎯 Exam Signal Words:**  
+- “wide-complex tachycardia”  
+- “hemodynamically stable”  
+- “alert, speaking normally”  
+- “regular rhythm”  
+- “next medication”
+
+---
+**Category:** Emergency Management  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
+
+### 📊 Primary Dysmenorrhea/UTI-style Cystitis Treatment Choice
+
+**🔵 Picture this:** In urgent care before lunch, a patient winces over suprapubic pain while your MA hands you a urine dip strip bright with inflammation markers; you hover over broad-spectrum antibiotics, pause, then confidently select nitrofurantoin for uncomplicated cystitis.
+
+**🔍 Think Through It:** Why does your brain want to pick a broad-spectrum antibiotic “just in case”? What's the critical discriminator between uncomplicated cystitis and pyelonephritis/systemic infection? What would change if she had flank pain and high fever?
+
+**🎯 The Answer:**  
+**Immediate:** Use nitrofurantoin for uncomplicated lower UTI in appropriate patients (effective, targeted).  
+**Then:** Counsel on warning signs for upper-tract progression.  
+**Avoid:** Unnecessary broad-spectrum agents for simple cystitis.
+
+**❌ Common Traps:**  
+• Linezolid/macrolide choices ← Poor fit for routine uncomplicated cystitis  
+• Escalation without indications ← Increases resistance/adverse effects
+
+**💡 Recall Pearl:**  
+“Dysuria + suprapubic pain, no flank red flags → nitrofurantoin.”
+
+**✏️ CK-Style Vignette:**  
+A 24-year-old woman has dysuria and suprapubic discomfort without flank pain or systemic symptoms. Urinalysis supports lower urinary tract infection. What is the most appropriate treatment?  
+**Most likely choice:** Nitrofurantoin for uncomplicated cystitis.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If cystitis is uncomplicated, I think targeted oral therapy, not broad overkill.”
+
+**🎯 Exam Signal Words:**  
+- “dysuria”  
+- “suprapubic pain”  
+- “no flank pain”  
+- “afebrile or mild symptoms”  
+- “uncomplicated UTI”
+
+---
+**Category:** Therapeutics  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
+
+### 📊 Tension Pneumothorax Immediate Management
+
+**🔵 Picture this:** In a loud trauma room, the paramedic shouts as breath sounds vanish on one side and the trachea seems shoved over like a bent straw; you jam your gloved hand toward the decompression kit, fear spikes then settles, and you perform immediate needle thoracostomy.
+
+**🔍 Think Through It:** Why does your brain want to order a chest x-ray before action? What's the critical discriminator between simple pneumothorax and tension physiology? What would change if vitals were stable without tracheal shift?
+
+**🎯 The Answer:**  
+**Immediate:** Perform needle thoracostomy for suspected tension pneumothorax (rapid pressure release).  
+**Then:** Place definitive chest tube.  
+**Avoid:** Imaging delay before decompression in classic tension presentation.
+
+**❌ Common Traps:**  
+• CXR first ← Dangerous delay in time-critical obstructive shock physiology  
+• Diuretics/medical therapy ← Does not relieve pleural pressure
+
+**💡 Recall Pearl:**  
+“Shift + shock + silent hemithorax = needle now, image later.”
+
+**✏️ CK-Style Vignette:**  
+A trauma patient develops sudden hypoxia, hypotension, unilateral hyperresonance, and tracheal deviation. What is the most appropriate immediate next step?  
+**Most likely choice:** Needle thoracostomy ← emergent decompression of tension pneumothorax.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If I see tracheal shift with respiratory collapse, I think tension pneumo and decompress before imaging.”
+
+**🎯 Exam Signal Words:**  
+- “sudden hypoxia”  
+- “unilateral absent breath sounds”  
+- “hyperresonance”  
+- “tracheal deviation”  
+- “hemodynamic instability”
+
+---
+**Category:** Emergency Management  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
+
+### 📊 Stress Urinary Incontinence First-Line Care
+
+**🔵 Picture this:** In outpatient clinic at 10 AM, a patient laughs then leaks and her daughter looks embarrassed beside her; you set the imaging order aside, tap the pelvic floor handout with your finger, shift from overtesting impulse to practical care, and start Kegel training first.
+
+**🔍 Think Through It:** Why does your brain want imaging before conservative care? What's the critical discriminator between stress incontinence and urge incontinence? What would change if she had neurologic deficits or red-flag pelvic findings?
+
+**🎯 The Answer:**  
+**Immediate:** Begin pelvic floor muscle training (Kegel exercises) for uncomplicated stress incontinence.  
+**Then:** Escalate only if persistent symptoms after conservative trial.  
+**Avoid:** Routine advanced imaging as first step with classic presentation.
+
+**❌ Common Traps:**  
+• CT pelvis first ← Low-yield in straightforward stress incontinence  
+• Antibiotics without infection clues ← Treats the wrong problem
+
+**💡 Recall Pearl:**  
+“Leak with cough, normal exam: tighten floor before tech-heavy workup.”
+
+**✏️ CK-Style Vignette:**  
+A 49-year-old woman reports urine leakage during coughing and exercise. Pelvic exam is otherwise normal, and there are no neurologic symptoms. What is the most appropriate initial management?  
+**Most likely choice:** Kegel exercises as first-line treatment.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If leakage is exertional without red flags, I think stress incontinence and start pelvic floor therapy.”
+
+**🎯 Exam Signal Words:**  
+- “leaks with cough/sneeze”  
+- “normal pelvic exam”  
+- “no dysuria/fever”  
+- “no neurologic deficits”  
+- “initial management”
+
+---
+**Category:** Therapeutics  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
+
+### 📊 Hypercalcemia from Squamous Cell Lung Cancer
+
+**🔵 Picture this:** On oncology rounds at dawn, your attending circles a calcium value glowing high on the chart while the patient’s wife mentions constipation; you flip the CT image with your thumb, go from broad differential fog to crisp focus, and identify PTHrP-mediated hypercalcemia from lung malignancy.
+
+**🔍 Think Through It:** Why does your brain want to blame bone metastases first? What's the critical discriminator between humoral hypercalcemia of malignancy and direct osteolytic spread? What would change if PTH were elevated instead of suppressed?
+
+**🎯 The Answer:**  
+**Immediate:** Recognize paraneoplastic PTHrP secretion as classic mechanism in squamous cell carcinoma hypercalcemia.  
+**Then:** Treat symptomatic hypercalcemia and underlying malignancy.  
+**Avoid:** Assuming all cancer-related hypercalcemia is from bone metastases.
+
+**❌ Common Traps:**  
+• Bone metastases reflex ← Possible but not the hallmark mechanism in classic squamous pattern  
+• Primary hyperparathyroidism assumption ← Usually not with obvious malignancy context
+
+**💡 Recall Pearl:**  
+“Squamous lung + high calcium + low native PTH = PTHrP.”
+
+**✏️ CK-Style Vignette:**  
+A 66-year-old man with a lung mass has constipation, fatigue, and elevated calcium. Laboratory testing suggests non–PTH-driven hypercalcemia. What is the most likely mechanism?  
+**Most likely choice:** PTHrP secretion from squamous cell carcinoma.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If lung cancer with hypercalcemia and suppressed PTH, I think PTHrP paraneoplastic syndrome.”
+
+**🎯 Exam Signal Words:**  
+- “lung mass”  
+- “hypercalcemia”  
+- “constipation”  
+- “suppressed PTH”  
+- “squamous histology”
+
+---
+**Category:** Diagnostics  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
+
+### 📊 Acute Pericarditis Diagnosis Pattern
+
+**🔵 Picture this:** In the ED at shift handoff, a junior points to an ECG where elevations spread like a blanket instead of one territory; you press the stethoscope to the chest, uncertainty fades into recognition, and you diagnose acute pericarditis rather than focal ischemia.
+
+**🔍 Think Through It:** Why does your brain want to label all ST elevation as MI? What's the critical discriminator between diffuse and territorial ST patterns? What would change if reciprocal changes and localized elevation were present?
+
+**🎯 The Answer:**  
+**Immediate:** Diagnose acute pericarditis when chest pain and ECG show diffuse ST elevation ± PR depression.  
+**Then:** Treat anti-inflammatory and monitor for complications.  
+**Avoid:** Misclassifying as STEMI without matching ECG distribution/clinical context.
+
+**❌ Common Traps:**  
+• STEMI reflex from any ST elevation ← misses diffuse global pattern  
+• GERD attribution only ← ignores objective ECG findings
+
+**💡 Recall Pearl:**  
+“Global ST lift + positional pleuritic pain = pericarditis lane.”
+
+**✏️ CK-Style Vignette:**  
+A 29-year-old patient has sharp chest pain worse when supine and improved leaning forward. ECG reveals diffuse ST elevation and PR depression. Most likely diagnosis?  
+**Most likely choice:** Acute pericarditis.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If ST elevation is diffuse and pain is positional, I think pericarditis before STEMI.”
+
+**🎯 Exam Signal Words:**  
+- “chest pain better leaning forward”  
+- “worse with inspiration”  
+- “diffuse ST elevation”  
+- “PR depression”  
+- “no focal territorial pattern”
+
+---
+**Category:** Diagnostics  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
+
+### 📊 Chest Pain First Test
+
+**🔵 Picture this:** At triage near midnight, a patient clutches his chest while a nurse pushes the machine cart toward you; you nearly click CT first, then catch yourself, place leads with your own hands, and get an immediate ECG as the first diagnostic step.
+
+**🔍 Think Through It:** Why does your brain want advanced imaging before basics? What's the critical discriminator between first-line triage testing and second-line etiologic workup? What would change if ECG showed STEMI criteria right away?
+
+**🎯 The Answer:**  
+**Immediate:** Obtain ECG first in acute chest discomfort evaluation (fast risk stratification for ischemia/arrhythmia).  
+**Then:** Direct further testing by ECG and clinical risk.  
+**Avoid:** Delaying ECG for CT or low-yield tests.
+
+**❌ Common Traps:**  
+• CT-first reflex ← wrong sequence in initial chest pain algorithm  
+• CXR as definitive first cardiac test ← may help later, not core immediate ischemia screen
+
+**💡 Recall Pearl:**  
+“Chest pain doorway rule: ECG first, everything else second.”
+
+**✏️ CK-Style Vignette:**  
+A 54-year-old man presents with vague chest discomfort and diaphoresis. He is hemodynamically stable. What is the most appropriate initial test?  
+**Most likely choice:** ECG ← immediate triage for ischemic and arrhythmic emergencies.
+
+**🧪 Self-Test:**  
+Before looking at the next case: Cover the answer above and rehearse: “If chest discomfort is new, I think ECG now before fancy imaging.”
+
+**🎯 Exam Signal Words:**  
+- “acute chest discomfort”  
+- “diaphoresis”  
+- “initial test”  
+- “hemodynamically stable”  
+- “emergency evaluation”
+
+---
+**Category:** Diagnostic Algorithm  
+**Learning Cycle:** ✓ Complete (all 4 Kolb stages engaged)
